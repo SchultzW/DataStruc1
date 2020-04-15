@@ -1,0 +1,11 @@
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\obj\Debug\netcoreapp3.1\DataLab1.csprojAssemblyReference.cache
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\obj\Debug\netcoreapp3.1\DataLab1.AssemblyInfoInputs.cache
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\obj\Debug\netcoreapp3.1\DataLab1.AssemblyInfo.cs
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\bin\Debug\netcoreapp3.1\DataLab1.exe
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\bin\Debug\netcoreapp3.1\DataLab1.deps.json
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\bin\Debug\netcoreapp3.1\DataLab1.runtimeconfig.json
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\bin\Debug\netcoreapp3.1\DataLab1.runtimeconfig.dev.json
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\bin\Debug\netcoreapp3.1\DataLab1.dll
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\bin\Debug\netcoreapp3.1\DataLab1.pdb
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\obj\Debug\netcoreapp3.1\DataLab1.dll
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\Arrays\DataLab1\DataLab1\obj\Debug\netcoreapp3.1\DataLab1.pdb
